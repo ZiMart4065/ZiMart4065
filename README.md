@@ -9,4 +9,5 @@ SQL,
 PostgreSQL,
 Pandas,
 Seaborn,
-NumPy, Matplotlib.
+NumPy,
+Matplotlib.
